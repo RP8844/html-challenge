@@ -1,7 +1,7 @@
 # html-challenge
 Module 11: Data Collection &amp; Web Scraping
 
-## Splinter and HTML parsing with Beautiful Soup
+## Splinter and HTML Parsing with Beautiful Soup
 
 # Part 1: Scrape Titles and Preview Text from Mars News
 1. Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
