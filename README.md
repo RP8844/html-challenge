@@ -44,7 +44,7 @@ Module 11: Data Collection &amp; Web Scraping
 		- Visually estimate the result by plotting the daily minimum temperature.
 6. Export the DataFrame to a CSV file.
 
-# Resources
+## Resources
 1. Modules 11: In Class Activities
 2. Collaborated with fellow classmates
 3. Class Instructor: Arooj A Qureshi
