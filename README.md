@@ -49,5 +49,4 @@ Module 11: Data Collection &amp; Web Scraping
 2. Collaborated with fellow classmates
 3. Class Instructor: Arooj A Qureshi
 4. TA Instructor: Abdelrahman "Abdo" Elewah
-5. Ask BCS Learning Assistants
    
